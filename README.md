@@ -4,7 +4,7 @@ Statute text and coding for laws on life-sustaining treatment (LST) decisions fo
 
 **[Open the explorer](https://parkegan.github.io/state_statutes_alternate_decision_makers/statute_explorer.html)**
 
-## What the explorer shows
+## Explorer content
 
 The map has six views:
 
@@ -19,14 +19,6 @@ Click a jurisdiction to read the statute excerpts it was coded on, the code summ
 "Look up a provision" outlines every jurisdiction coded for that provision.
 
 Categories within a view are mutually exclusive. A jurisdiction that meets more than one category is shown under the more stringent one. The legend lists overlaps.
-
-
-## Files
-
-| File | Purpose |
-|---|---|
-| `statute_explorer.html` | The explorer.|
-| `app.R` | The same explorer as a Shiny app, for local use. |
 
 ## Sources and limitations
 
