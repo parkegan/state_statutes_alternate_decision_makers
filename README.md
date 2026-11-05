@@ -1,6 +1,6 @@
 # State LST Statute Explorer
 
-Statute text and coding for laws on life-sustaining treatment (LST) decisions for incapacitated patients in the 50 US states and Washington, DC.
+Statute text and coding for laws on life-sustaining treatment (LST) decisions made by alternate decision-makers for incapacitated patients in the 50 US states and Washington, DC.
 
 **[Open the explorer](https://parkegan.github.io/state_statutes_alternate_decision_makers/statute_explorer_alternate_decision_maker.html)**
 
